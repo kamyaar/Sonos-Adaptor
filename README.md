@@ -1,5 +1,7 @@
 # Sonos Adaptor
 
+![Sonos Adaptor](banner.svg)
+
 An Android app that captures audio from a USB-C input (turntable, mixer, instrument, etc.) and streams it in real time to Sonos speakers or any UPnP/DLNA receiver on your local network.
 
 ## What it does
