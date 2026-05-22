@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- This app communicates exclusively with local network devices (Sonos, UPnP speakers)
+         over plain HTTP. Cleartext is acceptable here since all traffic stays on the LAN. -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
